@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<body bgcolor="#ffffcc" link="blue" vlink="teal" alink="red">
+<a name="top"></a>
+<center>
+<table align="center" border="0" width="480" cellspacing="10">
+
+<tbody><tr>
+<td colspan="2" bgcolor="#ccffcc" height="50" align="center" valign="middle">
+<font color="#006600" size="6" face="Helvetica, Arial"><b>TOURS AND TRAVELS</b></font>
+</td></tr>
+
+<tr>
+<td colspan="2"><font color="#000000" size="5" face="Helvetica, Arial">
+<p>&nbsp;</p>
+<p><b>MENU</b></p></font>
+<p>&nbsp;</p>
+
+<font color="#000000" size="3" face="Helvetica, Arial">
+
+<p>You can find details of our tour packages on this page</p>
+<pre>
+</pre>
+<dl>
+<dt><p><b><a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.shortpixel.ai%2Fspai%2Fw_977%2Bq_glossy%2Bret_img%2Bto_webp%2Fhttps%3A%2F%2Fwww.timetravelturtle.com%2Fwp-content%2Fuploads%2F2014%2F09%2FPuglia-2014-222_new.jpg&imgrefurl=https%3A%2F%2Fwww.timetravelturtle.com%2Ftrulli-alberobello-puglia-italy%2F&tbnid=NKKWDqhD7s3lIM&vet=12ahUKEwjzt4r0vdH8AhUul9gFHWOkDZQQMygGegUIARDNAQ..i&docid=lWv87x0P38qqQM&w=921&h=614&q=italian%20trulli&ved=2ahUKEwjzt4r0vdH8AhUul9gFHWOkDZQQMygGegUIARDNAQ">
+<img src="pic_trulli.jpg" alt="Italian Trulli"></a></b></p>
+
+
+
+</dl>
+<pre>
+</pre>
+<dl>
+
+<dd><p><a href="secondwebpage.html#top"><b>phenol . . .</b></a></p></dd>
+
+
+
+</dl>
+
+<pre>
+
+</pre>
+
+<p><a href="index.html#top"><b>Go to Main Menu . . .</b></a></p>
+</font>
+<pre>
+</pre>
+<hr>
+
+<p><font color="#000000" size="2" face="Helvetica, Arial"> (add your name here) </font></p>
+</td>
+</tr>
+
+</tbody></table></center>
+
+
+</body>
+</html>
+
+
